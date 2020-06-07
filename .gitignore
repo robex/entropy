@@ -1,0 +1,4 @@
+samples/
+*.swp
+*.o
+ent
